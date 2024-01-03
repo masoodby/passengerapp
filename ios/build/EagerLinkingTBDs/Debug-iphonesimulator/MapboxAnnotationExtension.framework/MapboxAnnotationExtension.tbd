@@ -1,0 +1,99 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_MGLPropertyTextTransform",
+            "_MGLPropertyTextOpacity",
+            "_MGLPropertyLineOpacity",
+            "_MGLPropertyCircleRadius",
+            "_MGLPropertyTextColor",
+            "_MGLPropertyLineBlur",
+            "_MapboxAnnotationExtensionVersionNumber",
+            "_MGLPropertyIconScale",
+            "_MGLPropertyTextLetterSpacing",
+            "_MGLPropertyPolygonOpacity",
+            "_MGLPropertyCircleColor",
+            "_MGLPropertyTextFontNames",
+            "_MGLPropertyIconImageName",
+            "_MGLPropertyIconHaloWidth",
+            "_MGLPropertyIconRotation",
+            "_MGLPropertyAnnotationTitle",
+            "_MGLPropertyTextRotation",
+            "_MGLPropertyCircleStrokeColor",
+            "_MGLPropertyCircleStrokeOpacity",
+            "_MGLPropertyCircleStrokeWidth",
+            "_MGLPropertyTextOffset",
+            "_MGLPropertyPolygonOutlineColor",
+            "_MGLPropertyIconColor",
+            "_MGLPropertySymbolSortKey",
+            "_MGLPropertyCircleOpacity",
+            "_MGLPropertyTextRadialOffset",
+            "_MGLPropertyTextAnchor",
+            "_MGLPropertyLineGapWidth",
+            "_MGLPropertyPolygonPattern",
+            "_MGLPropertyPolygonColor",
+            "_MGLPropertyLineWidth",
+            "_MGLPropertyTextJustification",
+            "_MGLPropertyCircleBlur",
+            "_MGLPropertyTextHaloColor",
+            "_MGLPropertyAnnotationTooltip",
+            "_MGLPropertyLineJoin",
+            "_MGLPropertyIconOffset",
+            "_MGLPropertyLinePattern",
+            "_MGLPropertyTextHaloBlur",
+            "_MGLPropertyTextFontSize",
+            "_MGLPropertyTextHaloWidth",
+            "_MGLPropertyIconHaloColor",
+            "_MGLPropertyIconHaloBlur",
+            "_MGLPropertyIconOpacity",
+            "_MGLPropertyMaximumTextWidth",
+            "_MapboxAnnotationExtensionVersionString",
+            "_MGLPropertyAnnotationIdentifier",
+            "_MGLPropertyIconAnchor",
+            "_MGLPropertyText",
+            "_MGLPropertyAnnotationSubtitle",
+            "_MGLPropertyLineColor",
+            "_MGLPropertyLineOffset"
+          ],
+          "objc_class": [
+            "MGLCircleAnnotationController",
+            "MGLSymbolStyleAnnotation",
+            "MGLPolygonStyleAnnotation",
+            "MGLLineStyleAnnotation",
+            "MGLPolygonAnnotationController",
+            "MGLCircleStyleAnnotation",
+            "MGLAnnotationLayerView",
+            "PodsDummy_MapboxAnnotationExtension",
+            "MGLLineAnnotationController",
+            "MGLEnums",
+            "MGLSymbolAnnotationController",
+            "MGLStyleAnnotation",
+            "MGLAnnotationController",
+            "MGLStructs"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/MapboxAnnotationExtension.framework/MapboxAnnotationExtension"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "x86_64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

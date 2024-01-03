@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/mapbox_gl-master.dia",
+    "emit-module-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/mapbox_gl-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/mapbox_gl-master-emit-module.dia",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/mapbox_gl-master.swiftdeps"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/Constants.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Constants~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/Convert.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Convert~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/Enums.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Enums~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/Extensions.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/Extensions~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/LayerPropertyConverter.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/LayerPropertyConverter~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/MapboxMapController.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapController~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/MapboxMapFactory.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapFactory~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/MapboxMapOptionsSink.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MapboxMapOptionsSink~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/MethodCallError.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/MethodCallError~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/OfflineChannelHandler.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineChannelHandler~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/OfflineManagerUtils.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineManagerUtils~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/OfflinePackDownloadManager.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflinePackDownloadManager~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/OfflineRegion.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegion~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/OfflineRegionDefinition.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/OfflineRegionDefinition~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/SourcePropertyConverter.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SourcePropertyConverter~partial.swiftmodule"
+  },
+  "/Users/moein/.pub-cache/hosted/pub.dev/mapbox_gl-0.16.0/ios/Classes/SwiftMapboxGlFlutterPlugin.swift" : {
+    "const-values" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.swiftconstvalues",
+    "dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.d",
+    "diagnostics" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.o",
+    "llvm-bc" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.bc",
+    "object" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.o",
+    "swift-dependencies" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin.swiftdeps",
+    "swiftmodule" : "/Users/moein/Desktop/masoud_projects/passengerapp/ios/build/Pods.build/Debug-iphonesimulator/mapbox_gl.build/Objects-normal/x86_64/SwiftMapboxGlFlutterPlugin~partial.swiftmodule"
+  }
+}

@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>Passegner map for ios</string>
 	<key>CFBundleDisplayName</key>
 	<string>Passenger</string>
 	<key>CFBundleExecutable</key>
